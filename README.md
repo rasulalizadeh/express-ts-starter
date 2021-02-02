@@ -2,14 +2,14 @@
 Starter template for server applications with express js framework and typescript support
 
 ## Features
-- Eslint
-- Prettier
-- Jest for test
+- [Eslint](https://github.com/eslint/eslint)
+- [Prettier](https://github.com/prettier/prettier)
+- [Jest](https://github.com/facebook/jest)
 
 
-<hr>
+<br>
 
-## Scripts
+# Scripts
 
 Run commands with yarn or npm
 
