@@ -1,4 +1,30 @@
 dist
 node_modules
-yarn-error.log
+coverage
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+*.code-workspace
+
+# Temp files
+.npm
+.env
+.cache
+
+# Package managers
+/logs
+*.log
+npm-debug.log*
+/**/npm-debug.log
+yarn-error.log*
+yarn-debug.log*
+yarn-error.log*
 yarn.lock
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
