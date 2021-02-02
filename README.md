@@ -7,9 +7,7 @@ Starter template for server applications with express js framework and typescrip
 - [Jest](https://github.com/facebook/jest)
 
 
-<br>
-
-# Scripts
+## Scripts
 
 Run commands with yarn or npm
 
